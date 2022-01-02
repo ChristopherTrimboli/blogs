@@ -1,2 +1,2 @@
 # blogs
-A open-source copy of my personal blogs from Medium.
+A open-source copy of my personal blogs.
