@@ -7,6 +7,6 @@ Substack clone: https://christophertrimboli.substack.com/
 
 ### Do I ever have to work with real people again?
 
-https://github.com/ChristopherTrimboli/blogs/blob/main/doieverhavetoworkwithrealpeopleeveragain.md
+https://github.com/ChristopherTrimboli/blogs/blob/main/doieverhavetoworkwithrealpeopleagain.md
 
 2022-01-02
