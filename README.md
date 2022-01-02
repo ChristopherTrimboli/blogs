@@ -1,5 +1,5 @@
 # blogs
-A open-source copy of my personal blogs.
+A open-source copy of my personal Medium blogs.
 
 Substack clone: https://christophertrimboli.substack.com/
 
