@@ -11,8 +11,15 @@ https://github.com/ChristopherTrimboli/blogs/blob/main/doieverhavetoworkwithreal
 
 2022-01-02
 
-### Why I’m getting back into Trades as a Software Engineer.
+### Why I’m getting back into Trades as a Software Engineer
 
 https://github.com/ChristopherTrimboli/blogs/blob/main/whyimbackintotrades.md
 
 2022-04-04
+
+### What I Learned from Failing my First Hackathon
+
+https://github.com/ChristopherTrimboli/blogs/blob/main/learningfromfailedhackathon.md
+
+2022-06-07
+
